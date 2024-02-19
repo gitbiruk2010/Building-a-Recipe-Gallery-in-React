@@ -17,7 +17,7 @@ To get the Recipe Gallery React app up and running on your local machine, follow
 
 1. Clone the repository to your local machine or download the source code.
    ```bash
-   git clone 
+   git clone https://github.com/gitbiruk2010/Building-a-Recipe-Gallery-in-React
    cd recipe-gallery
 
     Install the required dependencies.
